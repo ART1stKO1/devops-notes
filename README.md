@@ -1,7 +1,7 @@
 # DevOps Notes
 
 Конспект моего пути в DevOps: от Linux и сетей до Docker, CI/CD и мониторинга.
-Учусь по собственному плану, ~10 часов в неделю, с ноября 2026.
+Учусь по плану, ~10 часов в неделю, с ноября 2026 под присмотром claude, веду этот репозиторий по его совету.
 
 ## Стек, который изучаю
 Linux (Ubuntu Server) · Bash · сети · Git · Python · PostgreSQL · Docker · GitHub Actions · Ansible · Prometheus/Grafana

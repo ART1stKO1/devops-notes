@@ -15,7 +15,7 @@ Linux (Ubuntu Server) · Bash · сети · Git · Python · PostgreSQL · Dock
 
 ## Прогресс
 - [x] Виртуальная машина с Ubuntu Server 26.04
-- [ ] Linux: файлы и пути
+- [x] Linux: файлы и пути
 - [ ] Linux: права, конвейеры, поиск
 - [ ] Linux: процессы, службы, пакеты
 - [ ] Bash-скрипты и cron

@@ -13,7 +13,7 @@
 - touch a.txt b.txt        # создать два пустых файла
 - ls -la                   # список с подробностями: видишь . и ..?
 - echo "привет" > a.txt    # записать текст в файл
-- printf                   # работает как echo, только \n у него означает перенос строки.
+- printf                   # работает как echo, только \n у него означает перенос строки. (printf 'apple\nBanana\npineapple\ncherry\nbanana split\nAPPLE pie\nlemon\n' > fruits.txt)
 - cat a.txt                # показать файл
 - cp a.txt c.txt           # скопировать
 
